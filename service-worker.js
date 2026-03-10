@@ -2,13 +2,13 @@ const CACHE_NAME = "my-app-cache-v1";
 
 const urlsToCache = [
   "/",
-  "/portal.html",
+  "/index.html",
 
   // images
-  "/foto/Landing Page.png",
-  "/foto/Open source-rafiki 1.png",
-  "/foto/upa-pkk-logo 1.png",
-  "/foto/upa-pkk-logo 512.png"
+  "foto/Landing Page.png",
+  "foto/Open source-rafiki 1.png",
+  "foto/upa-pkk-logo 1.png",
+  "foto/upa-pkk-logo 512.png"
 ];
 
 self.addEventListener("install", event => {

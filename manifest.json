@@ -1,7 +1,7 @@
 {
-  "name": "My Web App",
-  "short_name": "MyApp",
-  "start_url": "/",
+  "name": "Portal UPA PK2",
+  "short_name": "PortalUPA",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0f172a",
