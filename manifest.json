@@ -2,26 +2,26 @@
   "name": "Portal UPA PKK",
   "short_name": "PortalUPA",
   "description": "Portal UPA PKK - Kreatif, Mandiri, dan Siap Berkompetisi",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
-  "scope": "./",
+  "scope": ".",
   "icons": [
     {
-      "src": "foto/upa-pkk-logo 1.png",
+      "src": "foto/upa-pkk-logo-1.png",
       "sizes": "1080x1080",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "foto/upa-pkk-logo 512.png",
+      "src": "foto/upa-pkk-logo-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "foto/upa-pkk-logo 512.png",
+      "src": "foto/upa-pkk-logo-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
