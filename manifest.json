@@ -30,14 +30,14 @@
   "screenshots": [
     {
       "src": "foto/screenshot_desktop.jpeg",
-      "sizes": "1920x1080",
+      "sizes": "1240x588",
       "type": "image/jpeg",
       "form_factor": "wide",
       "label": "Tampilan Desktop Portal UPA"
     },
     {
       "src": "foto/screenshot_mobile.jpeg",
-      "sizes": "1080x1920",
+      "sizes": "407x670",
       "type": "image/jpeg",
       "label": "Tampilan Mobile Portal UPA"
     }
