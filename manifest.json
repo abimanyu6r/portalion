@@ -22,24 +22,9 @@
     },
     {
       "src": "foto/upa-pkk-logo 512.png",
-      "sizes": "192x192",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "foto/screenshot_desktop.png",
-      "sizes": "1920x1080",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Desktop view of Portal UPA PKK"
-    },
-    {
-      "src": "foto/screenshot_mobile.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "label": "Mobile view of Portal UPA PKK"
     }
   ]
 }
