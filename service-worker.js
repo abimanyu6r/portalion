@@ -10,8 +10,11 @@ const urlsToCache = [
   "foto/upa-pkk-logo%20512.png",
   "foto/screenshot_desktop.png",
   "foto/screenshot_mobile.png",
-  "https://fonts.googleapis.com/css2?family=Koulen&family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap",
-  "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+  "fonts/fonts.css",
+  "fonts/Koulen-Regular.ttf",
+  "fonts/BebasNeue-Regular.ttf",
+  "fonts/Roboto-Regular.ttf",
+  "fonts/Roboto-Bold.ttf",
 ];
 
 // Perform install
@@ -85,4 +88,4 @@ self.addEventListener("activate", event => {
       );
     })
   );
-});
+});

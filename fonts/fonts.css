@@ -1,0 +1,29 @@
+/* Koulen */
+@font-face {
+  font-family: 'Koulen';
+  src: url('Koulen-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Bebas Neue */
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('BebasNeue-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Roboto 400 */
+@font-face {
+  font-family: 'Roboto';
+  src: url('Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+/* Roboto 700 */
+@font-face {
+  font-family: 'Roboto';
+  src: url('Roboto-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
