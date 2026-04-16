@@ -1,4 +1,4 @@
-const CACHE_NAME = "portal-upa-cache-v5";
+const CACHE_NAME = "portal-upa-cache-v7";
 
 const urlsToCache = [
   "./",
@@ -8,8 +8,8 @@ const urlsToCache = [
   "foto/Open%20source-rafiki%201.png",
   "foto/upa-pkk-logo%201.png",
   "foto/upa-pkk-logo%20512.png",
-  "foto/screenshot_desktop.png",
-  "foto/screenshot_mobile.png",
+  "foto/screenshot_desktop.jpeg",
+  "foto/screenshot_mobile.jpeg",
   "fonts/fonts.css",
   "fonts/Koulen-Regular.ttf",
   "fonts/BebasNeue-Regular.ttf",
